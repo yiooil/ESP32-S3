@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/ESP-S3/Boot-Key/build/CMakeFiles/bootloader
+E:/ESP-S3/Boot-Key/build/CMakeFiles/bootloader.rule
+E:/ESP-S3/Boot-Key/build/CMakeFiles/bootloader-complete.rule
+E:/ESP-S3/Boot-Key/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/ESP-S3/Boot-Key/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/ESP-S3/Boot-Key/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/ESP-S3/Boot-Key/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/ESP-S3/Boot-Key/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/ESP-S3/Boot-Key/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/ESP-S3/Boot-Key/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

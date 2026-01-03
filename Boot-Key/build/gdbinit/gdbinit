@@ -1,0 +1,2 @@
+source E:/ESP-S3/Boot-Key/build/gdbinit/symbols
+source E:/ESP-S3/Boot-Key/build/gdbinit/connect
