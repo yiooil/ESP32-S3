@@ -1,0 +1,24 @@
+set(src_dirs 
+        key_deteced
+        I2C
+        PCF85063
+)
+
+set(include_dirs 
+        key_deteced
+        I2C
+        PCF85063
+)
+
+set(requires 
+    driver
+    freertos
+    esp_timer
+)
+
+idf_component_register(SRC_DIRS ${src_dirs}
+                       INCLUDE_DIRS ${include_dirs}
+                       REQUIRES ${requires}
+)
+
+component_compile_options(-ffast-math -O3 -Wno-error=format -Wno-format)
